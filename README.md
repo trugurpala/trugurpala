@@ -1,70 +1,74 @@
-![Uğur Pala — Python, Pine Script ve Divan](./assets/github-profile-banner.png)
+<p align="right">
+  <strong>English</strong> · <a href="./README.tr.md">Türkçe</a>
+</p>
 
-# Merhaba, ben Uğur
+![Uğur Pala — Python, Pine Script, and Divan](./assets/github-profile-banner.png)
 
-Kendimi bir *vibe coder* olarak görüyorum: fikri, amacı ve sınırları belirliyor;
-kodlama ajanlarıyla birlikte Python, Pine Script ve yerel öncelikli açık kaynak
-araçları üretiyorum. Buradaki açık projelerimi
-[Divan](https://github.com/trugurpala/divan) ile planlıyor, uyguluyor, kontrol
-ediyor ve sürdürüyorum.
+# Hi, I'm Uğur Pala
 
-## Buradan başlayın
+I'm a *vibe coder*: I define the idea, goals, and constraints, then work with
+coding agents to build local-first, open-source tools in Python and Pine Script.
+I use [Divan](https://github.com/trugurpala/divan) to plan, build, verify, and
+maintain the open-source projects featured here.
 
-- Claude Code veya Codex ile daha planlı çalışmak için
-  [Divan'ı inceleyin](https://github.com/trugurpala/divan).
-- Pine Script v6 yanıtlarını belirli kaynaklara dayandırmak için
-  [Pine Script Agent Kit'e bakın](https://github.com/trugurpala/pinescriptv6).
-- Türkiye IBAN doğrulama ve kuruluş verisi için
-  [veri setini](https://github.com/trugurpala/turkiye-iban),
-  [PHP istemcisini](https://github.com/trugurpala/turkiye-iban-php) veya
-  [Python istemcisini](https://github.com/trugurpala/turkiye-iban-python)
-  seçin.
-- Hesapsız, reklamsız ve verilerinizi tarayıcıda tutan bir su hatırlatıcısı
-  için [Ada Su'yu inceleyin](https://github.com/trugurpala/ada-su).
+## Start here
 
-## Divan nedir?
+- For a more structured way to work with Claude Code or Codex,
+  [explore Divan](https://github.com/trugurpala/divan).
+- To help AI tools answer Pine Script v6 questions using clearly identified
+  sources,
+  [explore the Pine Script Agent Kit](https://github.com/trugurpala/pinescriptv6).
+- For Turkish (Türkiye) IBAN validation and institution data, choose the
+  [open dataset](https://github.com/trugurpala/turkiye-iban),
+  [PHP client](https://github.com/trugurpala/turkiye-iban-php), or
+  [Python client](https://github.com/trugurpala/turkiye-iban-python).
+- For an account-free, ad-free water reminder that keeps your data in your
+  browser, [explore Ada Su](https://github.com/trugurpala/ada-su).
 
-Divan, kullandığınız kodlama ajanına plan, güvenli iş sırası, kalıcı proje
-hafızası ve doğrulanabilir teslim ekler. İsteği sınırlar, uygun çalışma
-adımlarını seçer, kontrolleri çalıştırır ve sonucun hangi kanıta dayandığını
-gösterir.
+## What is Divan?
 
-Divan bir yapay zekâ modeli, bulut kodlama hizmeti veya harici ajan çalışma
-zamanı değildir. Claude Code ve Codex gibi desteklenen araçların içinde çalışan
-açık kaynak bir beceri ve eklenti dağıtımıdır.
+Divan gives the coding agent you already use a structured plan, an explicit
+execution sequence, persistent project memory, and evidence-backed delivery. It
+scopes the request, selects the right workflow, runs checks, and shows the
+evidence behind the result.
 
-Bu profil de Divan ile planlandı, yazıldı ve kontrol edildi. Yani burada
-anlatılan süreç yalnız bir vaat değil; kendi üretim biçimimdir.
+Divan is not an AI model, cloud coding service, or standalone agent runtime. It
+is an open-source collection of skills and plugins that works within supported
+tools such as Claude Code and Codex.
 
-[Divan'ı inceleyin](https://github.com/trugurpala/divan) ·
-[Kurulum rehberi](https://github.com/trugurpala/divan#install-with-an-agent) ·
-[Web sitesi](https://trugurpala.github.io/divan/)
+This profile was also planned, written, and verified with Divan. The workflow
+described here is not just a promise; it is how I build.
 
-## Açık kaynak projeler
+[Explore Divan](https://github.com/trugurpala/divan) ·
+[Installation guide](https://github.com/trugurpala/divan#install-with-an-agent) ·
+[Website](https://trugurpala.github.io/divan/)
 
-| Proje | Ne işe yarar? | Durum veya önemli sınır |
+## Open-source projects
+
+| Project | What it does | Important boundary |
 |---|---|---|
-| [Divan](https://github.com/trugurpala/divan) | Kodlama ajanlarına planlı ve kanıtlı çalışma düzeni ekler. | Ücretsiz, MIT lisanslı; model veya bulut hizmeti değildir. |
-| [Pine Script Agent Kit](https://github.com/trugurpala/pinescriptv6) | Yapay zekâ araçlarının Pine Script v6 yanıtlarını adı belli kaynaklara dayandırmasına yardımcı olur. | TradingView derleyicisinin ve gerçek grafik testinin yerini almaz. |
-| [Türkiye IBAN](https://github.com/trugurpala/turkiye-iban) | Türkiye IBAN biçimini denetler ve kuruluş kodunu doğrulanmış veriyle eşleştirir. | Bir hesabın varlığını veya sahibini doğrulamaz. |
-| [Türkiye IBAN — PHP](https://github.com/trugurpala/turkiye-iban-php) | Türkiye IBAN işlemleri için PHP 8.2+ Composer istemcisi sunar. | Çalışırken ağdan veri indirmez. |
-| [Türkiye IBAN — Python](https://github.com/trugurpala/turkiye-iban-python) | Türkiye IBAN işlemleri için Python 3.10+ istemcisi sunar. | Çalışırken ağdan veri indirmez. |
-| [Ada Su](https://github.com/trugurpala/ada-su) | Hesap, reklam ve analiz kullanmayan mobil öncelikli bir su hatırlatıcısıdır. | Veriler tarayıcıda kalır. |
+| [Divan](https://github.com/trugurpala/divan) | Adds a planned, evidence-backed workflow to coding agents. | Free and MIT-licensed; not an AI model or cloud service. |
+| [Pine Script Agent Kit](https://github.com/trugurpala/pinescriptv6) | Helps AI tools ground Pine Script v6 answers in named sources. | Does not replace the TradingView compiler or real chart testing. |
+| [Türkiye IBAN](https://github.com/trugurpala/turkiye-iban) | Validates the format of Turkish IBANs and maps institution codes using the included dataset. | Does not confirm that an account exists or who owns it. |
+| [Türkiye IBAN — PHP](https://github.com/trugurpala/turkiye-iban-php) | Provides a PHP 8.2+ Composer client for Turkish IBAN operations. | Does not download data at runtime. |
+| [Türkiye IBAN — Python](https://github.com/trugurpala/turkiye-iban-python) | Provides a Python 3.10+ client for Turkish IBAN operations. | Does not download data at runtime. |
+| [Ada Su](https://github.com/trugurpala/ada-su) | A mobile-first water reminder with no accounts, ads, or analytics. | Your data stays in your browser. |
 
-Her projenin kurulum, destek, güvenlik ve lisans sınırları kendi deposunda
-açıklanır. Sorunuz veya öneriniz varsa ilgili projenin destek bağlantısını
-kullanın; profil hakkında bir düzeltme için
-[katkı rehberine](CONTRIBUTING.md) bakın.
+Each project documents its own installation, support, security, and licensing
+boundaries. For questions or suggestions, use the support channel in the
+relevant project; to suggest a correction to this profile, see the
+[contribution guide](CONTRIBUTING.md).
 
-## İletişim
+If a project is useful, starring it, sharing it, or
+[following me on GitHub](https://github.com/trugurpala) helps more people
+discover the open-source work.
+
+## Contact
 
 [X](https://x.com/trugurpala) ·
-[E-posta](mailto:mail@ugurpala.com) ·
-[Topluluk kuralları](CODE_OF_CONDUCT.md) ·
-[Güvenlik bildirimi](SECURITY.md)
+[Email](mailto:mail@ugurpala.com) ·
+[Community guidelines](CODE_OF_CONDUCT.md) ·
+[Security policy](SECURITY.md)
 
-Bu profil deposunun içeriği [MIT Lisansı](LICENSE) ile paylaşılır.
-
-<sub>English: I build open-source tools with Python and Pine Script. My public
-projects use Divan to turn scoped work into plans, checks and evidence-backed
-delivery.</sub>
+The contents of this profile repository are available under the
+[MIT License](LICENSE).
