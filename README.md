@@ -10,13 +10,17 @@ ediyor ve sürdürüyorum.
 
 ## Buradan başlayın
 
-Claude Code veya Codex ile yürüttüğünüz işi planlı, güvenli ve kanıtlanabilir
-bir sürece dönüştürmek istiyorsanız Divan'ı inceleyin. Pine Script v6, Türkiye
-IBAN araçları veya hesap gerektirmeyen sade bir su hatırlatıcısı arıyorsanız
-aşağıdaki projelerden ihtiyacınıza uygun olanı seçin.
-
-Her proje bağlantısı sizi kurulum, kullanım, destek ve güvenlik bilgilerinin
-bulunduğu kendi sayfasına götürür.
+- Claude Code veya Codex ile daha planlı çalışmak için
+  [Divan'ı inceleyin](https://github.com/trugurpala/divan).
+- Pine Script v6 yanıtlarını belirli kaynaklara dayandırmak için
+  [Pine Script Agent Kit'e bakın](https://github.com/trugurpala/pinescriptv6).
+- Türkiye IBAN doğrulama ve kuruluş verisi için
+  [veri setini](https://github.com/trugurpala/turkiye-iban),
+  [PHP istemcisini](https://github.com/trugurpala/turkiye-iban-php) veya
+  [Python istemcisini](https://github.com/trugurpala/turkiye-iban-python)
+  seçin.
+- Hesapsız, reklamsız ve verilerinizi tarayıcıda tutan bir su hatırlatıcısı
+  için [Ada Su'yu inceleyin](https://github.com/trugurpala/ada-su).
 
 ## Divan nedir?
 
