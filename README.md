@@ -7,6 +7,17 @@ projelere dönüştürüyorum. Bu profildeki açık projelerin oluşturulması v
 sürdürülmesinde [Divan](https://github.com/trugurpala/divan) iş akışını
 kullanıyorum.
 
+## Bu depo ne yapar?
+
+Bu depo, GitHub profil sayfamın kaynak deposudur. GitHub, kullanıcı adımla aynı
+olan `trugurpala/trugurpala` deposundaki bu README'yi profilimin ana sayfasında
+gösterir.
+
+Burada indirip çalıştırılacak bir uygulama yoktur. README ziyaretçileri doğru
+projeye yönlendirir; `assets/` profil görsellerini, topluluk dosyaları ise katkı,
+destek ve güvenlik yollarını tanımlar. Projelerin kaynak kodu ve kurulum
+adımları kendi depolarındadır.
+
 ## Divan nedir?
 
 Divan, kullandığınız kodlama ajanına plan, güvenli iş sırası, kalıcı proje
