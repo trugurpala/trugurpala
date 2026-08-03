@@ -1,0 +1,27 @@
+name: Profil iyileştirmesi
+description: Profilin ziyaretçiler için daha anlaşılır olmasını sağlayacak bir öneri gönderin
+title: "[Öneri]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Ziyaretçinin ihtiyacı
+      description: Profilde bugün anlaşılmayan veya bulunması zor olan bilgiyi açıklayın.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Önerilen değişiklik
+      description: Eklenmesini veya değiştirilmesini istediğiniz kısa ve somut metni yazın.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Kaynak veya örnek
+      description: Varsa öneriyi doğrulayan herkese açık bağlantıyı ekleyin.
+    validations:
+      required: false
