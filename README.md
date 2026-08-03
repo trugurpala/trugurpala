@@ -45,6 +45,8 @@ kullanın; profil hakkında bir düzeltme için
 [Topluluk kuralları](CODE_OF_CONDUCT.md) ·
 [Güvenlik bildirimi](SECURITY.md)
 
+Bu profil deposunun içeriği [MIT Lisansı](LICENSE) ile paylaşılır.
+
 <sub>English: I build open-source tools with Python and Pine Script. My public
 projects use Divan to turn scoped work into plans, checks and evidence-backed
 delivery.</sub>
