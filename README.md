@@ -4,20 +4,19 @@
 
 Kendimi bir *vibe coder* olarak görüyorum: fikri, amacı ve sınırları belirliyor;
 kodlama ajanlarıyla birlikte Python, Pine Script ve yerel öncelikli açık kaynak
-araçları üretiyorum. Bu profil deposu dahil projelerimi
+araçları üretiyorum. Buradaki açık projelerimi
 [Divan](https://github.com/trugurpala/divan) ile planlıyor, uyguluyor, kontrol
 ediyor ve sürdürüyorum.
 
-## Bu depo ne yapar?
+## Buradan başlayın
 
-Bu depo, GitHub profil sayfamın kaynak deposudur. GitHub, kullanıcı adımla aynı
-olan `trugurpala/trugurpala` deposundaki bu README'yi profilimin ana sayfasında
-gösterir.
+Claude Code veya Codex ile yürüttüğünüz işi planlı, güvenli ve kanıtlanabilir
+bir sürece dönüştürmek istiyorsanız Divan'ı inceleyin. Pine Script v6, Türkiye
+IBAN araçları veya hesap gerektirmeyen sade bir su hatırlatıcısı arıyorsanız
+aşağıdaki projelerden ihtiyacınıza uygun olanı seçin.
 
-Burada indirip çalıştırılacak bir uygulama yoktur. README ziyaretçileri doğru
-projeye yönlendirir; `assets/` profil görsellerini, topluluk dosyaları ise katkı,
-destek ve güvenlik yollarını tanımlar. Projelerin kaynak kodu ve kurulum
-adımları kendi depolarındadır.
+Her proje bağlantısı sizi kurulum, kullanım, destek ve güvenlik bilgilerinin
+bulunduğu kendi sayfasına götürür.
 
 ## Divan nedir?
 
@@ -30,9 +29,8 @@ Divan bir yapay zekâ modeli, bulut kodlama hizmeti veya harici ajan çalışma
 zamanı değildir. Claude Code ve Codex gibi desteklenen araçların içinde çalışan
 açık kaynak bir beceri ve eklenti dağıtımıdır.
 
-Bu profil deposunun README, topluluk dosyaları ve GitHub bakımını da Divan ile
-yürütüyorum. Yani burada anlatılan süreç yalnız bir vaat değil; bu deponun kendi
-çalışma biçimidir.
+Bu profil de Divan ile planlandı, yazıldı ve kontrol edildi. Yani burada
+anlatılan süreç yalnız bir vaat değil; kendi üretim biçimimdir.
 
 [Divan'ı inceleyin](https://github.com/trugurpala/divan) ·
 [Kurulum rehberi](https://github.com/trugurpala/divan#install-with-an-agent) ·
