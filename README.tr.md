@@ -1,5 +1,6 @@
-<p align="right">
-  <strong>Türkçe</strong> · <a href="./README.md">English</a>
+<p align="center">
+  🌐 <strong>Bu profili şu dilde okuyun:</strong>
+  <a href="./README.md">English</a> · <strong>Türkçe</strong>
 </p>
 
 ![Uğur Pala — Python, Pine Script ve Divan](./assets/github-profile-banner.png)

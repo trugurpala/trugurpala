@@ -1,4 +1,5 @@
-<p align="right">
+<p align="center">
+  🌐 <strong>Read this profile in:</strong>
   <strong>English</strong> · <a href="./README.tr.md">Türkçe</a>
 </p>
 
