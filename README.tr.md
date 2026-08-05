@@ -17,6 +17,8 @@ ediyor ve sürdürüyorum.
 
 - Claude Code veya Codex ile daha planlı çalışmak için
   [Divan'ı inceleyin](https://github.com/trugurpala/divan).
+- Kodun güvenli ve yerel kalabilir bir şekilde yürütülmesi için
+  [Pala Project Studio'yu inceleyin](https://github.com/trugurpala/pala-project-studio).
 - Pine Script v6 yanıtlarını belirli kaynaklara dayandırmak için
   [Pine Script Agent Kit'e bakın](https://github.com/trugurpala/pinescriptv6).
 - Türkiye IBAN doğrulama ve kuruluş verisi için
@@ -50,6 +52,7 @@ anlatılan süreç yalnız bir vaat değil; kendi üretim biçimimdir.
 | Proje | Ne işe yarar? | Durum veya önemli sınır |
 |---|---|---|
 | [Divan](https://github.com/trugurpala/divan) | Kodlama ajanlarına planlı ve kanıtlı çalışma düzeni ekler. | Ücretsiz, MIT lisanslı; model veya bulut hizmeti değildir. |
+| [Pala Project Studio](https://github.com/trugurpala/pala-project-studio) | Kodlama ajanları için güvenli uzman işçi yönlendirmesi ve yerel ilk teslimat akışı sağlar. | Yapay zekâ modeli veya bulut hizmeti değildir; özel depo/veri/sohbet dökümlerini depolamaz. |
 | [Pine Script Agent Kit](https://github.com/trugurpala/pinescriptv6) | Yapay zekâ araçlarının Pine Script v6 yanıtlarını adı belli kaynaklara dayandırmasına yardımcı olur. | TradingView derleyicisinin ve gerçek grafik testinin yerini almaz. |
 | [Türkiye IBAN](https://github.com/trugurpala/turkiye-iban) | Türkiye IBAN biçimini denetler ve kuruluş kodunu doğrulanmış veriyle eşleştirir. | Bir hesabın varlığını veya sahibini doğrulamaz. |
 | [Türkiye IBAN — PHP](https://github.com/trugurpala/turkiye-iban-php) | Türkiye IBAN işlemleri için PHP 8.2+ Composer istemcisi sunar. | Çalışırken ağdan veri indirmez. |

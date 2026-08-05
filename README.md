@@ -16,6 +16,8 @@ maintain the open-source projects featured here.
 
 - For a more structured way to work with Claude Code or Codex,
   [explore Divan](https://github.com/trugurpala/divan).
+- For secure local-first Codex orchestration, check
+  [Pala Project Studio](https://github.com/trugurpala/pala-project-studio).
 - To help AI tools answer Pine Script v6 questions using clearly identified
   sources,
   [explore the Pine Script Agent Kit](https://github.com/trugurpala/pinescriptv6).
@@ -49,6 +51,7 @@ described here is not just a promise; it is how I build.
 | Project | What it does | Important boundary |
 |---|---|---|
 | [Divan](https://github.com/trugurpala/divan) | Adds a planned, evidence-backed workflow to coding agents. | Free and MIT-licensed; not an AI model or cloud service. |
+| [Pala Project Studio](https://github.com/trugurpala/pala-project-studio) | Secure project orchestration for Codex workflows with local-first experts and evidence-backed delivery. | Not an AI model or cloud service; does not store private repo data or transcripts. |
 | [Pine Script Agent Kit](https://github.com/trugurpala/pinescriptv6) | Helps AI tools ground Pine Script v6 answers in named sources. | Does not replace the TradingView compiler or real chart testing. |
 | [Türkiye IBAN](https://github.com/trugurpala/turkiye-iban) | Validates the format of Turkish IBANs and maps institution codes using the included dataset. | Does not confirm that an account exists or who owns it. |
 | [Türkiye IBAN — PHP](https://github.com/trugurpala/turkiye-iban-php) | Provides a PHP 8.2+ Composer client for Turkish IBAN operations. | Does not download data at runtime. |
