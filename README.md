@@ -63,6 +63,24 @@ Verileriniz tarayıcınızda kalır; hatırlatmalar sayfa açıkken çalışır.
 
 [Ada Su'yu deneyin](https://trugurpala.github.io/ada-su/)
 
+## Açık kaynak katkıları
+
+### Orca — Türkçe yerelleştirme
+
+**Ekim 2026 · [PR #31316](https://github.com/stablyai/orca/pull/31316) · İnceleme bekliyor**
+
+Mevcut Türkçe yerelleştirmeyi güncelleyerek Orca'ya katkı önerdim:
+
+- 1.801 eksik çeviri girdisini tamamladım ve değişen metinleri güncelledim.
+- Türkçe kısayol aramasını ve yerel menü çevirilerini iyileştirdim.
+- Windows üzerinde otomatik arayüz ve regresyon testleriyle kontroller yaptım;
+  ekran görüntülerini ve test sonuçlarını PR'da paylaştım.
+
+Bu çalışma, [@merttopuz'un ilk çevirisi](https://github.com/stablyai/orca/pull/22200)
+ve [@mehmetefeaytas'ın güncellemesi](https://github.com/merttopuz/orca/pull/1)
+üzerine kurulu. OpenAI Codex desteğiyle hazırlandı; önceki katkıcıların
+yazarlığı korundu. PR henüz ana projeye birleştirilmedi.
+
 ## İletişim ve katkı
 
 Bir proje hakkında sorunuz, öneriniz veya hata bildiriminiz varsa ilgili

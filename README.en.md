@@ -62,6 +62,24 @@ browser; reminders work while the page is open.
 
 [Try Ada Su](https://trugurpala.github.io/ada-su/)
 
+## Open-source contributions
+
+### Orca — Turkish localization
+
+**October 2026 · [PR #31316](https://github.com/stablyai/orca/pull/31316) · Awaiting review**
+
+I submitted an update to Orca's existing Turkish localization:
+
+- Added 1,801 missing translation entries and refreshed changed strings.
+- Improved Turkish shortcut search and native menu translations.
+- Ran automated UI and regression checks on Windows, sharing screenshots
+  and test results in the PR.
+
+This builds on [@merttopuz's original translation](https://github.com/stablyai/orca/pull/22200)
+and [@mehmetefeaytas's update](https://github.com/merttopuz/orca/pull/1).
+The work was prepared with OpenAI Codex assistance, preserving the earlier
+contributors' authorship. The PR has not yet been merged upstream.
+
 ## Contact and contributions
 
 For project questions, suggestions, or bug reports, start with the support
