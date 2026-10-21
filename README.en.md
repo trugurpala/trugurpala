@@ -6,11 +6,11 @@
 
 # Hi, I'm Uğur Pala
 
-**AI-assisted development · Local tools · Open source**
+**Developer tools · Local applications · Open source**
 
-I turn everyday needs and ideas into open-source projects with coding agents.
-I describe myself as a *vibe coder*: I define the problem and scope, build in
-small steps, then test and document the result.
+I build open-source tools that solve everyday problems.
+My work focuses on simple interfaces, local applications, and clear
+documentation.
 
 Here you'll find my tools for coding agents, Python and Pine Script projects,
 and open-source contributions.
@@ -57,8 +57,7 @@ test results, and known limitations in the PR.
 
 This work builds on [@merttopuz's original translation](https://github.com/stablyai/orca/pull/22200)
 and [@mehmetefeaytas's update](https://github.com/merttopuz/orca/pull/1).
-It was prepared with OpenAI Codex assistance, preserving the earlier
-contributors' authorship. **The PR has not yet been merged upstream.**
+The earlier contributors' authorship is preserved. **The PR has not yet been merged upstream.**
 
 ## Let's improve things together
 

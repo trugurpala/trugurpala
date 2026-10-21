@@ -6,12 +6,11 @@
 
 # Merhaba, ben Uğur Pala
 
-**Yapay zekâ destekli geliştirme · Yerel araçlar · Açık kaynak**
+**Geliştirici araçları · Yerel uygulamalar · Açık kaynak**
 
-Günlük ihtiyaçları ve fikirleri, kodlama ajanlarıyla birlikte açık kaynak
-projelere dönüştürüyorum. Kendimi bir *vibe coder* olarak tanımlıyorum:
-ihtiyacı ve kapsamı belirliyor, küçük adımlarla geliştiriyor, ortaya çıkan
-sonucu test edip belgeliyorum.
+Günlük ihtiyaçları çözen açık kaynak araçlar geliştiriyorum.
+Çalışmalarımda sade kullanım, yerel çalışan çözümler ve açık belgeler
+üzerine odaklanıyorum.
 
 Burada kodlama ajanları için araçlarımı, Python ve Pine Script çalışmalarımı
 ve açık kaynak katkılarımı bulabilirsiniz.
@@ -59,8 +58,7 @@ test sonuçlarını ve bilinen sınırlamaları PR'da paylaştım.
 
 Çalışma, [@merttopuz'un ilk çevirisi](https://github.com/stablyai/orca/pull/22200)
 ve [@mehmetefeaytas'ın güncellemesi](https://github.com/merttopuz/orca/pull/1)
-üzerine kurulu. OpenAI Codex desteğiyle hazırlandı; önceki katkıcıların
-yazarlığı korundu. **PR henüz ana projeye birleştirilmedi.**
+üzerine kurulu; önceki katkıcıların yazarlığı korundu. **PR henüz ana projeye birleştirilmedi.**
 
 ## Birlikte geliştirelim
 
