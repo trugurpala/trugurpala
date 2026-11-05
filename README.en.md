@@ -24,7 +24,7 @@ Pine Script results require separate TradingView verification. IBAN tools do not
 
 ## Open-source contribution
 
-[Orca Turkish localization — PR #31316](https://github.com/stablyai/orca/pull/31316): In October 2026 I added 1,801 missing entries to the existing translation, building on earlier work by [@merttopuz](https://github.com/stablyai/orca/pull/22200) and [@mehmetefeaytas](https://github.com/merttopuz/orca/pull/1). See the PR for its current status.
+[Orca Turkish UI — merged PR #34718](https://github.com/stablyai/orca/pull/34718): In [my PR #31316](https://github.com/stablyai/orca/pull/31316), I refreshed the existing translation and tested the Windows interface. Orca shipped Turkish as a built-in language and credited me as a [co-author of the merge commit](https://github.com/stablyai/orca/commit/4b1967bdd83a47bef17293a4c4f9134d383cdb4a). This builds on earlier work by [@merttopuz](https://github.com/stablyai/orca/pull/22200) and [@mehmetefeaytas](https://github.com/merttopuz/orca/pull/1).
 
 ## Let's build useful things
 

@@ -24,7 +24,7 @@ Pine Script çıktıları TradingView'de ayrıca kontrol edilmelidir. IBAN araç
 
 ## Açık kaynak katkım
 
-[Orca Türkçe yerelleştirme — PR #31316](https://github.com/stablyai/orca/pull/31316): Ekim 2026'da mevcut çeviriye 1.801 eksik girdi ekledim. Bu katkı [@merttopuz](https://github.com/stablyai/orca/pull/22200) ve [@mehmetefeaytas](https://github.com/merttopuz/orca/pull/1) tarafından yapılan önceki çalışmaların üzerine kurulu. PR'ın güncel durumu bağlantısından görülebilir.
+[Orca Türkçe arayüzü — birleşen PR #34718](https://github.com/stablyai/orca/pull/34718): [Kendi PR'ımda #31316](https://github.com/stablyai/orca/pull/31316) mevcut çeviriyi güncelledim ve Windows arayüzünde test ettim. Orca ekibi Türkçeyi yerleşik dil olarak yayımladı; [birleşen commit'te](https://github.com/stablyai/orca/commit/4b1967bdd83a47bef17293a4c4f9134d383cdb4a) ortak yazar olarak yer alıyorum. İlk çalışma [@merttopuz](https://github.com/stablyai/orca/pull/22200) ve [@mehmetefeaytas](https://github.com/merttopuz/orca/pull/1) katkılarına dayanıyor.
 
 ## Birlikte geliştirelim
 
